@@ -35,7 +35,7 @@ In the project directory, you can run:
    Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ***
 
-### Tesing
+### Testing
 
 Jest tests can be found in the App.test.js file.
 Use:
