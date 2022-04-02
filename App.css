@@ -1,0 +1,45 @@
+/*
+    last change by Rena Kollmann-Suhr March 31st 2022
+    App.css in react_web_app_scratch created by Rena Kollmann-Suhr
+
+    App.css is a css style sheet that control the UI of React elements
+*/
+
+img {
+  border-radius: 10%;
+}
+.image-shadow {
+  border-radius: 10%;
+  margin: 10px auto 20px;
+  display: block;
+  height: 600px;
+  width: 600px;
+  box-shadow: 5px 5px 5px #999;
+}
+
+.title{
+  position: absolute;
+  top: 40%;
+  left: 25%;
+  transform:rotate(-45deg);
+  font-size: 30px;
+  font-style: italic;
+}
+
+.button{
+  background-color: #87b47d;
+  border-radius: 25px;
+  border: none;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  padding: 15px 32px;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  display: block;
+  height: 100px;
+  width: 200px;
+  box-shadow: 5px 5px 5px #999;
+}
